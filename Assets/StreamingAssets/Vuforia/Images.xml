@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Calculator" size="0.150000 0.084399" />
+    <ImageTarget name="Rimi_Kortele" size="1.000000 1.333333" />
+    <ImageTarget name="Neste_Kortele" size="1.000000 1.333333" />
+    <ImageTarget name="KT_Kortele" size="1.000000 1.333333" />
+    <ImageTarget name="Dalis" size="1.000000 0.728524" />
+    <ImageTarget name="Rimi" size="1.000000 2.828221" />
+    <ImageTarget name="Neste" size="1.000000 2.919014" />
+    <ImageTarget name="KT" size="1.000000 2.788382" />
+    <ImageTarget name="Card" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
